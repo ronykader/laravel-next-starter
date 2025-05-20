@@ -1,0 +1,13 @@
+# Laravel Rest API
+/rest-api/vendor/
+/rest-api/storage/*.key
+/rest-api/.env
+
+# Node (Next.js)
+/next-frontend/node_modules/
+/next-frontend/.next/
+/next-frontend/.env.local
+
+# General
+.DS_Store
+.env
